@@ -16,7 +16,6 @@
 .video{
   position: relative;
   padding-bottom: 56.25%;
-  display: none; /*delete*/
 }
 
 .video__media{
